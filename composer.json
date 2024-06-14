@@ -1,0 +1,16 @@
+{
+    "name": "ashraful/finance_cli",
+    "description": "A simple php cli application to manage finances",
+    "autoload": {
+        "psr-4": {
+            "Ashraful\\FinanceCli\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md. Ashraful",
+            "email": "ashraful.coder@gmail.com"
+        }
+    ],
+    "require": {}
+}
